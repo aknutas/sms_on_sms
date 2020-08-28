@@ -1,5 +1,5 @@
-# sms_on_sms
-LDA topic modeling visualization for the article "Systematic mapping study on the systematic mapping study research method," which will be published in the Sage Open journal. 
+# Systematic mapping study on the systematic mapping study research method
+LDA topic modeling visualization for the article "Systematic mapping study on the systematic mapping study research method," which will be published in the Sage Open journal. Once the article has been published, it will be updated here
 
 ## Authors
 Vanhala, Erno (Corresponding Author)
